@@ -1,0 +1,1 @@
+void input2(int *turn, int * input, int *color1, int *color2);

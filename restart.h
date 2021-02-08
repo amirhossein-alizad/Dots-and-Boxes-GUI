@@ -1,0 +1,1 @@
+void restart(int *points1, int* points2, int * turn, int vertical[6][6], int horizontal[6][6]);

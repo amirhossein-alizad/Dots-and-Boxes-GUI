@@ -1,0 +1,1 @@
+int squares(int turn, int *color, int x, int y, int z, int vertical[6][6], int horizontal[6][6], int* points1, int* points2);

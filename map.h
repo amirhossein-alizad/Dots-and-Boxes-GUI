@@ -1,0 +1,1 @@
+void map(int color1, int color2, int turn, int counter);

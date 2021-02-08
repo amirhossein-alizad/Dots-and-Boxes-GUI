@@ -1,0 +1,1 @@
+void winner(int points1, int points2, int color1, int color2);
